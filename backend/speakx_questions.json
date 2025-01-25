@@ -1,0 +1,1586 @@
+[{
+  "_id": {
+    "$oid": "665568f4ac3f6205c943a937"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "O",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "Y",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66555f1a3735a7caf45b6f09"
+  },
+  "solution": "TOY",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6654d6bd3735a7caf4593580"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "M",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "O",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "V",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654c89c0cd382ca309f95e8"
+  },
+  "solution": "MOVIE",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "66557a550ad60f7b75e15f93"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "Driven by my aspiration to grow professionally in education",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": ", I am willing to relocate",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "to contribute to an establishment",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "renowned for its cutting-edge approach",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "to learning",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": ".",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "665543538571bf23e1c091ac"
+  },
+  "solution": "Driven by my aspiration to grow professionally in education , I am willing to relocate to contribute to an establishment renowned for its cutting-edge approach to learning .",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "665544f676f0333f5986b4f2"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "Reviewing our discussion,",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "we have uncovered",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "common ground",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "that suggests",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "our partnership",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "could be highly beneficial.",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654e6ab3735a7caf4598057"
+  },
+  "solution": "Reviewing our discussion, we have uncovered common ground that suggests our partnership could be highly beneficial.",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "6654bfe9ac3f6205c940aa60"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "Do you plan",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "to go on",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "with your English lessons",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "because",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "you find them interesting",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "?",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654bc968571bf23e1be75ac"
+  },
+  "solution": "Do you plan to go on with your English lessons because you find them interesting ?",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "66556a3f3735a7caf45bb7a7"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "C",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "R",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "R",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66556142e7b8dd361ba3289a"
+  },
+  "solution": "CRITERIA",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "66557f3ba8d5ee3620f1b0dc"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "Motivated by the desire to match my career path",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "with my future objectives in education,",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I opted to resign",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "from my previous role",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "to pursue opportunities",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "that better satisfy my professional ambitions.",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66554435e7b8dd361ba269ad"
+  },
+  "solution": "Motivated by the desire to match my career path with my future objectives in education, I opted to resign from my previous role to pursue opportunities that better satisfy my professional ambitions.",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "66553deee7b8dd361ba24c45"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "Did",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "you",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "watch",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "a movie",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "last night",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "?",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654e22ccbede59a5cbeeb2f"
+  },
+  "solution": "Did you watch a movie last night ?",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "6654e6ff0cd382ca30a028fd"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "Could you guide me",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "on how to log into my online account",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "and keep track of my finances",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "while I'm focusing",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "on my studies",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "?",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654c2da76f0333f5984b981"
+  },
+  "solution": "Could you guide me on how to log into my online account and keep track of my finances while I'm focusing on my studies ?",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "6654ddb6c59979a52d1504bf"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "P",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "P",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "R",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "C",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654cc443735a7caf459023e"
+  },
+  "solution": "APPRECIATE",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6655a7d1612b45e5a8be597e"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "broadening",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "broad",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "broadly",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "broaden",
+      "isCorrectAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66554a130cd382ca30a18ea1"
+  },
+  "title": "My commitment to professional growth is evident through my continuous effort to __________ my skill set in advanced analytics."
+},
+{
+  "_id": {
+    "$oid": "6654e445cbede59a5cbef563"
+  },
+  "type": "READ_ALONG",
+  "siblingId": {
+    "$oid": "6654e44176f0333f59856683"
+  },
+  "title": "Excuse me, I'm not sure I understood the requirements fully. Could you go over them once more?"
+},
+{
+  "_id": {
+    "$oid": "66557fa7a816bfe014b50c71"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "R",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "S",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66557fa4f53e2f3b9141c8a9"
+  },
+  "solution": "RAISE",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6655289cc59979a52d1603cd"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "After exploring the city all day",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": ", how about we immerse ourselves",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "in the local gastronomy",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "and uncover",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "the unique flavors",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "that define this region?",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654d54d0ad60f7b75de61c1"
+  },
+  "solution": "After exploring the city all day , how about we immerse ourselves in the local gastronomy and uncover the unique flavors that define this region?",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "6655a6f2a072e0e71f6914e2"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "I recommend",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "we take a moment",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "to acknowledge",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "our joint efforts,",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "which have significantly contributed",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "to our present accomplishments.",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6655501e8571bf23e1c0ed3b"
+  },
+  "solution": "I recommend we take a moment to acknowledge our joint efforts, which have significantly contributed to our present accomplishments.",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "66555f600cd382ca30a21a63"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "S",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "U",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "P",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "P",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "L",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "Y",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "665550e1e7b8dd361ba2c4cd"
+  },
+  "solution": "SUPPLY",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "665554398571bf23e1c10709"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "S",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "K",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66554b820cd382ca30a19931"
+  },
+  "solution": "ASK",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6654cec276f0333f598500a9"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "C",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "R",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "R",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654c4dd76f0333f5984c6f3"
+  },
+  "solution": "CRITERIA",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "66557ecea816bfe014b50822"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "In response to the challenge of teaching a diverse group of learners,",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I crafted a comprehensive differentiated instruction plan",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "that was instrumental",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "in elevating student participation",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "and significantly improving their academic achievements.",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "665544160cd382ca30a16539"
+  },
+  "solution": "In response to the challenge of teaching a diverse group of learners, I crafted a comprehensive differentiated instruction plan that was instrumental in elevating student participation and significantly improving their academic achievements. ",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "660436a411b1ef9f2e27536a"
+  },
+  "type": "READ_ALONG",
+  "siblingId": {
+    "$oid": "660436a311b1ef9f2e275353"
+  },
+  "title": "It's called 'The Quest of Heroes'. It's about a group of friends who go on a journey to find a hidden treasure."
+},
+{
+  "_id": {
+    "$oid": "66556e053735a7caf45bd74f"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "were",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "was",
+      "isCorrectAnswer": true
+    },
+    {
+      "text": "are",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "is",
+      "isCorrectAnswer": false
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654ee8e0ad60f7b75ded8a4"
+  },
+  "title": "My last job ___ in digital marketing, but I had to leave when I moved to a different city."
+},
+{
+  "_id": {
+    "$oid": "665545698571bf23e1c0a101"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "R",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "S",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "U",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "L",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6655440df53e2f3b91403d99"
+  },
+  "solution": "RESULT",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6604091611b1ef9f2e2324b7"
+  },
+  "type": "READ_ALONG",
+  "siblingId": {
+    "$oid": "6604091611b1ef9f2e2324b3"
+  },
+  "title": "What is the pay for this work?"
+},
+{
+  "_id": {
+    "$oid": "6655d31a71970de235c92896"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "goes",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "go",
+      "isCorrectAnswer": true
+    },
+    {
+      "text": "going",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "to go",
+      "isCorrectAnswer": false
+    }
+  ],
+  "siblingId": {
+    "$oid": "665580cb6a9bc11daa183b71"
+  },
+  "title": "I ___ to the office every day."
+},
+{
+  "_id": {
+    "$oid": "66044ac011b1ef9f2e28d0a8"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "Waterproof matches",
+      "isCorrectAnswer": true
+    },
+    {
+      "text": "Plastic bags",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "Extra socks",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "Sunscreen",
+      "isCorrectAnswer": false
+    }
+  ],
+  "siblingId": null,
+  "title": "Which item is essential for starting a campfire?"
+},
+{
+  "_id": {
+    "$oid": "66554a088571bf23e1c0c00b"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "M",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66554661ac3f6205c942c533"
+  },
+  "solution": "MEET",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6654f7b676f0333f5985c051"
+  },
+  "type": "READ_ALONG",
+  "siblingId": {
+    "$oid": "6654f7b0c59979a52d157b64"
+  },
+  "title": "Aiming to excel in my position as a receptionist, I have set a short-term goal to master the names of all employees and clients within the first month, which I believe will significantly contribute to building strong and positive relationships."
+},
+{
+  "_id": {
+    "$oid": "6654eb7c3735a7caf4599694"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "M",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "P",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654dfca76f0333f59855198"
+  },
+  "solution": "MAP",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6655b9e1507dff000070d026"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "enables",
+      "isCorrectAnswer": true
+    },
+    {
+      "text": "enable",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "enabling",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "enabled",
+      "isCorrectAnswer": false
+    }
+  ],
+  "siblingId": {
+    "$oid": "6655524dcbede59a5cc0a0e8"
+  },
+  "title": "In light of the expertise I've acquired, I am now seeking a role that not only acknowledges my past achievements but also ______ me to further hone my skills in the realm of advanced financial portfolio management."
+},
+{
+  "_id": {
+    "$oid": "660420aa11b1ef9f2e253847"
+  },
+  "type": "CONTENT_ONLY",
+  "siblingId": {
+    "$oid": "660420a911b1ef9f2e253810"
+  },
+  "title": "Perfect, communication will be key to ensuring our project's success. I'll email you the details for the meeting and any updates on my research."
+},
+{
+  "_id": {
+    "$oid": "6654ee4ef53e2f3b913f24b0"
+  },
+  "type": "READ_ALONG",
+  "siblingId": {
+    "$oid": "6654ee4a8571bf23e1bf7ea9"
+  },
+  "title": "To enhance my ability in data analysis, I am currently taking an online course that focuses on advanced techniques."
+},
+{
+  "_id": {
+    "$oid": "65f9edaa951a2d7c4cd90832"
+  },
+  "type": "READ_ALONG",
+  "siblingId": {
+    "$oid": "65f9edaa951a2d7c4cd90830"
+  },
+  "title": "I enjoy painting as my hobby, it's very relaxing."
+},
+{
+  "_id": {
+    "$oid": "6655bfb9789403b3476e1342"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "Thank you",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "for the offer,",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "can we",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "discuss",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "the salary",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "?",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66557a278571bf23e1c20bfe"
+  },
+  "solution": "Thank you for the offer, can we discuss the salary ?",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "665507ee3735a7caf45a06b1"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "diligently",
+      "isCorrectAnswer": true
+    },
+    {
+      "text": "diligent",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "diligence",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "diligentlyly",
+      "isCorrectAnswer": false
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654c7200ad60f7b75de19a4"
+  },
+  "title": "I've noticed how __________ you've worked on this project; your attention to detail and creative solutions have really set a new standard for excellence in our team."
+},
+{
+  "_id": {
+    "$oid": "6654bfbd3735a7caf458b39b"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "N",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "V",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "S",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654bdb8cbede59a5cbe27af"
+  },
+  "solution": "INITIATIVES",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6655644cc59979a52d173cca"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "C",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "O",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "D",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "665556d73735a7caf45b3a52"
+  },
+  "solution": "CODE",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "66040f6a11b1ef9f2e23b41f"
+  },
+  "type": "READ_ALONG",
+  "siblingId": {
+    "$oid": "66040f6a11b1ef9f2e23b419"
+  },
+  "title": "I'm sorry for the inconvenience caused."
+},
+{
+  "_id": {
+    "$oid": "66557195c59979a52d179e62"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "participate",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "participates",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "participation",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "participating",
+      "isCorrectAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "6654f021c59979a52d155a97"
+  },
+  "title": "I ensure I'm always informed about the newest trends by ______ in webinars and attending conferences."
+},
+{
+  "_id": {
+    "$oid": "66555279ac3f6205c94319ba"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "P",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "R",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "S",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "U",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "D",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66554aa38571bf23e1c0c490"
+  },
+  "solution": "PERSUADE",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6655afffac7d4302fedba1a0"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "Moving to a new city",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "for work",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "is something",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I can do",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "soon",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": ".",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66555bc7cbede59a5cc0d9f6"
+  },
+  "solution": "Moving to a new city for work is something I can do soon .",
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "6603fad911b1ef9f2e218dc5"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "SENTENCE",
+  "blocks": [
+    {
+      "text": "My",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "resilience",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "in",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "facing",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "challenges",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "is",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "unwavering",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "and",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "steadfast.",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": null,
+  "title": "Rearrange the words to form a sentence"
+},
+{
+  "_id": {
+    "$oid": "660440df11b1ef9f2e28143e"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "In a silent room",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "Language exchange meetups",
+      "isCorrectAnswer": true
+    },
+    {
+      "text": "While swimming",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "Listening to music alone",
+      "isCorrectAnswer": false
+    }
+  ],
+  "siblingId": null,
+  "title": "Where can you practice speaking about hobbies in English?"
+},
+{
+  "_id": {
+    "$oid": "66556fce0cd382ca30a28e1a"
+  },
+  "type": "ANAGRAM",
+  "anagramType": "WORD",
+  "blocks": [
+    {
+      "text": "S",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "U",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "S",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "T",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "I",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "N",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "A",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "B",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "L",
+      "showInOption": true,
+      "isAnswer": true
+    },
+    {
+      "text": "E",
+      "showInOption": true,
+      "isAnswer": true
+    }
+  ],
+  "siblingId": {
+    "$oid": "66556b3ccbede59a5cc14121"
+  },
+  "solution": "SUSTAINABLE",
+  "title": "Rearrange the letters to form a word"
+},
+{
+  "_id": {
+    "$oid": "6658086f78ec1dda352f86ba"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "point",
+      "isCorrectAnswer": true
+    },
+    {
+      "text": "time",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "place",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "moment",
+      "isCorrectAnswer": false
+    }
+  ],
+  "siblingId": {
+    "$oid": "6657fe9778ec1dda352de071"
+  },
+  "title": "At this ____ in the discussion, it's crucial to consider all perspectives before making a decision."
+},
+{
+  "_id": {
+    "$oid": "6655b3a4789403b3476dd968"
+  },
+  "type": "MCQ",
+  "options": [
+    {
+      "text": "works",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "working",
+      "isCorrectAnswer": false
+    },
+    {
+      "text": "worked",
+      "isCorrectAnswer": true
+    },
+    {
+      "text": "work",
+      "isCorrectAnswer": false
+    }
+  ],
+  "siblingId": {
+    "$oid": "66554f1f0ad60f7b75e03e6a"
+  },
+  "title": "During my tenure, I ___ closely with the marketing team to increase our online presence."
+},
+{
+  "_id": {
+    "$oid": "6603ffc811b1ef9f2e2215de"
+  },
+  "type": "READ_ALONG",
+  "siblingId": {
+    "$oid": "6603ffc811b1ef9f2e2215d4"
+  },
+  "title": "Are there any performance-based incentives included in the compensation package?"
+}]
